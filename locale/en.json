@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Sticky wall",
+    "description": "Adds a sticky wall to the left sidebar: choose the note icon to open it, then write notes, pick one of five colours, or delete a note. Notes are saved in this browser on this computer, so they survive reloads and restarts; turning the plugin off keeps them saved but hides the wall.",
+    "detail": "docs/DETAIL.md"
+  }
+}
